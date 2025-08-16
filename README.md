@@ -1,4 +1,4 @@
-***📧 Email Spam Detector***
+**📧 Email Spam Detector**
 
 A Streamlit-powered web application that detects whether an email is Spam or Not Spam using a Machine Learning model. The app is designed to be lightweight, user-friendly, and deployment-ready, making it an excellent project for machine learning, text classification, and interactive ML app development.
 
