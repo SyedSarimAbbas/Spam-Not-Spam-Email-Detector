@@ -1,6 +1,6 @@
 # 📧 Email Spam Detector  
 
-A **Streamlit-powered web application** that classifies emails as **Spam** or **Not Spam** using a trained Machine Learning model. Lightweight, user-friendly, and deployment-ready — perfect for learning NLP and real-world text classification.  
+A **Streamlit-powered web application** that classifies emails as **Spam** or **Not Spam** using a trained Machine Learning model. Lightweight, user-friendly, and deployment-ready — perfect for learning Machine Learning and real-world text classification.  
 
 ---
 
